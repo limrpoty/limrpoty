@@ -2,10 +2,11 @@
 
 - :electron: I’m currently studying *Computer Science* at UFPel
 - 🇯🇵 Learning *Japanese*
+- 🖥️ *Games*
 <!--
 - 🎻 Trying to learn Cello (they didn't have the cello emoji)
 -->
-- 🖥️ *Games*
+
 
 <!--
 **limrmarcos/limrmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
