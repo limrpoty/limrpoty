@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey!
+## Welcome to my GitHub
 - :electron: I’m currently studying *Computer Science* at UFPel
 - 🇯🇵 Learning *Japanese*
 - 🖥️ *Games*
