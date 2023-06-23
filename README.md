@@ -1,7 +1,7 @@
 ## Hey!
 ### Welcome to my GitHub
 - :electron: I’m currently studying *Computer Science* at UFPel
-- 🇯🇵 Learning *Japanese*
+- 🗾 Learning *Japanese*
 <!--
 - 🖥️ *Games*
 - 🎻 Trying to learn viola (they didn't have the cello emoji)
