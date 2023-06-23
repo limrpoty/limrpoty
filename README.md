@@ -2,9 +2,9 @@
 ### Welcome to my GitHub
 - :electron: I’m currently studying *Computer Science* at UFPel
 - 🇯🇵 Learning *Japanese*
-- 🖥️ *Games*
 <!--
-- 🎻 Trying to learn Cello (they didn't have the cello emoji)
+- 🖥️ *Games*
+- 🎻 Trying to learn viola (they didn't have the cello emoji)
 -->
 
 
