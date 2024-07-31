@@ -2,6 +2,8 @@
 ### Welcome to my GitHub
 - :electron: I’m currently studying *Computer Science* at UFPel
 - 🗾 Learning *Japanese*
+
+- https://www.youtube.com/watch?v=GFokXnCCMf8&list=RDg5X7WHVTN8I&index=2
 <!--
 - 🖥️ *Games*
 - 🎻 Trying to learn viola (they didn't have the cello emoji)
