@@ -1,7 +1,8 @@
 ## Hey!
 ### Welcome to my GitHub
 - :electron: I’m currently studying *Computer Science* at UFPel
-- 🗾 Learning *Japanese*
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 🖥️ *Games*
 - 🎻 Trying to learn viola (they didn't have the cello emoji)
@@ -10,7 +11,7 @@
 
 <!--
 **limrmarcos/limrmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 🗾 Learning *Japanese*
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
