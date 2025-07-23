@@ -38,7 +38,7 @@ I'm currently focused on leveling up my skills in these areas:
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua,rust,vulkan,git,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua,rust,vulkan" />
   </a>
 </p>
 </details>
@@ -54,12 +54,6 @@ I'm currently focused on leveling up my skills in these areas:
 </details>
 
 ---
-
-### 📫 Let's Connect!
-
-I'm always excited to chat about new projects, cool tech, epic game campaigns, or great music.
-
-**Want to team up or say hi?** Leave a message on an issue—bonus points if you send a dragon emoji! 🐉
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdxa3B2YmE3NXRvcWZwbWhwM2RrN2Q5dW5kYnJkY2h1eWdmZWJ1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="A dragon typing on a laptop"/>
