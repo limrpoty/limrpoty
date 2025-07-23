@@ -46,11 +46,24 @@ I'm currently focused on leveling up my skills in these areas:
 <details>
 <summary><b>✨ Click for Some Fun Facts About Me</b></summary>
 <br>
--   ⚔️ **Tabletop RPGs are my jam.** I'm forever rolling for initiative!
--   🎵 I have a playlist for literally every situation.
--   ✍️ Sometimes my code is poetry. Sometimes my poetry is code.
--   🌏 I believe every bug has a story to tell.
--   🎲 My RPG dice are my spirit animal.
+<table>
+  <tr>
+    <td align="center" width="80">⚔️</td>
+    <td><b>RPG Enthusiast:</b> My dice are my spirit animal, and I'm always ready to roll for initiative.</td>
+  </tr>
+  <tr>
+    <td align="center" width="80">🎵</td>
+    <td><b>Music-Powered:</b> I have a carefully curated playlist for every mood, moment, and coding session.</td>
+  </tr>
+  <tr>
+    <td align="center" width="80">✍️</td>
+    <td><b>Code & Poetry:</b> Sometimes my code becomes poetry, and sometimes my poetry becomes code.</td>
+  </tr>
+  <tr>
+    <td align="center" width="80">🐞</td>
+    <td><b>Bug Whisperer:</b> I believe every bug has a unique story to tell, and I'm here to listen.</td>
+  </tr>
+</table>
 </details>
 
 ---
