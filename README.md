@@ -1,8 +1,16 @@
-# Hey there, I'm Marcos Lima! 👋
+# Hi there, I'm Marcos Lima! 👋
 
-> A Computer Science student navigating the realms of code, creativity, and caffeine.
+### [ potylimr ]
 
-I'm a developer-in-training at the **Federal University of Pelotas (UFPel)**, passionate about building amazing things and exploring the stories hidden within bugs. My goal is to weave logic and imagination together, whether I'm writing C++ or crafting a poem.
+> Student • Coder • Music Lover • Polyglot-in-Training • RPG Adventurer • Poet
+
+I'm a **Computer Science student** at **UFPel**, on a journey to turn caffeine into cool, functional code. I thrive on creative problem-solving, whether it's debugging a C++ application or crafting a line of poetry.
+
+<p align="center">
+  <a href="https://github.com/limrpoty" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
@@ -16,24 +24,34 @@ I'm currently focused on leveling up my skills in these areas:
 
 ---
 
-### 💻 My Digital Toolbox
+### 🚀 My GitHub Stats
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua,rust,vulkan" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limrpoty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
 
-### ✨ Beyond the Code
+<details>
+<summary><b>💻 Click to See My Digital Toolbox</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua,rust,vulkan,git,linux" />
+  </a>
+</p>
+</details>
 
-When I'm not in front of a screen, you can find me:
-
--   ⚔️ **Rolling for Initiative:** Embarking on epic adventures in tabletop RPGs with friends.
--   🎵 **Lost in Music:** I've always got a tune in my head and a playlist for every mood.
--   ✍️ **Crafting Worlds:** Unleashing my imagination through poems, stories, and the occasional novel.
--   🌏 **Exploring Languages:** On a quest to become a polyglot, one character at a time.
+<details>
+<summary><b>✨ Click for Some Fun Facts About Me</b></summary>
+<br>
+-   ⚔️ **Tabletop RPGs are my jam.** I'm forever rolling for initiative!
+-   🎵 I have a playlist for literally every situation.
+-   ✍️ Sometimes my code is poetry. Sometimes my poetry is code.
+-   🌏 I believe every bug has a story to tell.
+-   🎲 My RPG dice are my spirit animal.
+</details>
 
 ---
 
