@@ -65,5 +65,5 @@ I'm trying to learn new skills sometimes currently focused in:
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdxa3B2YmE3NXRvcWZwbWhwM2RrN2Q5dW5kYnJkY2h1eWdmZWJ1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="A dragon typing on a laptop"/>
-  Maybe someday this README will be perfect, or not.
+  <p>Maybe someday this README will be perfect, or not.</p>
 </p>
