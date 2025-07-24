@@ -49,11 +49,11 @@ I'm trying to learn new skills sometimes currently focused in:
   </tr>
   <tr>
     <td align="center" width="80">🎵</td>
-    <td><b>Moved by music:</b> I trying to create perfects playlist for every possibility.</td>
+    <td><b>Powered by music:</b> I trying to create perfects playlist for every possibility.</td>
   </tr>
   <tr>
     <td align="center" width="80">✍️</td>
-    <td><b>Code & Poetry:</b> Someday I shall learn **"Shakespeare"** programming language.</td>
+    <td><b>Code & Poetry:</b> Someday I shall learn "Shakespeare" programming language.</td>
   </tr>
   <tr>
     <td align="center" width="80">🐞</td>
