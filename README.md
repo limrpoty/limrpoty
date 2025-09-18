@@ -2,9 +2,9 @@
 
 ### [ potylimr ]
 
-> Student • Coder • AI Researcher • Music Lover • Polyglot-in-Training • RPG • Writer
+> Student • Coder • AI Researcher • Music Lover • Polyglot-in-training • Writer
 
-I'm a **Computer Science** student at **UFPel**, turning caffeine and delusions into actual (not always functional) code. I like to solve problems and exploring new ideas, be it coding a new application or writing a new story.
+I'm a **Computer Science** student at **UFPel**, turning caffeine and delusions into actual (not always functional) code. I like exploring new ideas, be it coding a new application or writing a new story.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-lima-alves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,14 +13,14 @@ I'm a **Computer Science** student at **UFPel**, turning caffeine and delusions 
 
 ---
 
-### My Current Quests
+### My Current Focus
 
-I'm trying to learn new skills sometimes currently focused in:
+I'm trying to learn new skills, currently focused in:
 
 -  **Rust** programming language
 -   Graphics with **Vulkan** and **OpenGL** (but with Rust 😅)
--   Learnig new languages (wanted to learn all at once), mainly **Mandarin** and **Japanese**
--   Developing a certain idea of software
+-   **Mandarin** and **Japanese**
+-   Developing a certain idea of software (it will come)
 
 ---
 
@@ -33,11 +33,11 @@ I'm trying to learn new skills sometimes currently focused in:
 
 ---
 
-<summary><b>My Skills</b></summary>
+<summary><b>Skills</b></summary>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua,rust,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua,rust,python,csharp" />
   </a>
 </p>
 
