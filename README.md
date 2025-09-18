@@ -37,7 +37,7 @@ I'm trying to learn new skills, currently focused in:
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua,rust,python,csharp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua,rust,python,cs" />
   </a>
 </p>
 
