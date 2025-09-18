@@ -17,9 +17,10 @@ I'm a **Computer Science** student at **UFPel**, turning caffeine and delusions 
 
 I'm trying to learn new skills sometimes currently focused in:
 
--   Brewing something new with **Rust** programming language
--   Graphics and possibilities with **Vulkan** and **OpenGL** (but with Rust 😅)
+-  **Rust** programming language
+-   Graphics with **Vulkan** and **OpenGL** (but with Rust 😅)
 -   Learnig new languages (wanted to learn all at once), mainly **Mandarin** and **Japanese**
+-   Developing a certain idea of software
 
 ---
 
