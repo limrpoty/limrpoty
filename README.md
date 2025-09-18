@@ -65,5 +65,5 @@ I'm trying to learn new skills, currently focused in:
 ---
 
 <p align="center">
-  <p>Maybe someday this README will be perfect, or not.</p>
+  <p>Maybe someday this README will be perfect (or not).</p>
 </p>
