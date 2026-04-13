@@ -19,7 +19,7 @@ I'm trying to learn new skills, currently focused in:
 
 -  **Rust** programming language
 -   Graphics with **Vulkan** and **OpenGL** (but with Rust 😅)
--   **Mandarin** and **Japanese**
+-   **Mandarin** and **Farsi**
 -   Developing a certain idea of software (it will come)
 
 ---
