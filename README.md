@@ -1,6 +1,6 @@
 # I'm Marcos Lima! 👋
 
-### [ potylimr ]
+### [ limrpoty ]
 
 > Student • Coder • AI Researcher • Music Lover • Polyglot-in-training • Writer
 
