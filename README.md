@@ -4,7 +4,6 @@
   </a>
 </div>
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/marcos-lima-alves">
     <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,37 +13,55 @@
   </a>
 </div>
 
+<br>
+
+## Who am I?
+
+A CS student currently enthusiastic about affective computing exploring the connections between human behavior and technology. It could be said that I turn caffeine and delusions into actual (not always functional) code. I like exploring new ideas, be it coding a new application or writing a new story.
+
+
+- **Working on:** [AffectiveNPC]
+- **Currently studying:**
+  - Graphics with Vulkan and OpenGL (with a Rust twist)
+  - **Korean**
+  - A little bit of chemistry
+- **Fun facts:**
+  - Trying to create perfect playlist for every possibility
+  - All bugs could be considered my friends (since they say enemies we keep close)
+
+<br>
+
+## Skills
 
 <div align="center">
-  <a>
-    <img src="https://img.shields.io/badge/Rust-1A1B27?style=for-the-badge&logo=rust&logoColor=white")
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/C%2B%2B-1A1B27?style=for-the-badge&logo=cplusplus&logoColor=white")
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=white")
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Lua-1A1B27?style=for-the-badge&logo=lua&logoColor=white")
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=white")
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=white")
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=white")
-  </a>
-  </div>
-
-
-
-<div align="center">
-
-  ![Stats](https://github-readme-stats.vercel.app/api?username=limrpoty&show_icons=true&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&hide_border=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=limrpoty&background=1A1B27&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A0AEC0&sideLabels=A0AEC0&dates=A0AEC0&hide_border=true) <br><br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&hide_border=true)
-
+  <a><img src="https://img.shields.io/badge/Rust-1A1B27?style=for-the-badge&logo=rust&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/C%2B%2B-1A1B27?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Lua-1A1B27?style=for-the-badge&logo=lua&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=white"></a>
 </div>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<br>
+
+## Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=limrpoty&show_icons=true&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=limrpoty&background=1A1B27&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A0AEC0&sideLabels=A0AEC0&dates=A0AEC0&hide_border=true" alt="Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&hide_border=true" alt="Top Langs" />
+</div>
+
+<br>
+
+## Contributions
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</div>
+
+---
+
+_Maybe someday this README will be perfect (or not)._
