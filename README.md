@@ -9,3 +9,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=limrpoty&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a227&icon_color=c9a227&text_color=e6edf3&bg_color=161b22)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&theme=github_dark&hide_border=true&title_color=c9a227&text_color=e6edf3&bg_color=161b22)
+
+
+![Rust](https://img.shields.io/badge/Rust-1A1B27?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=white)
