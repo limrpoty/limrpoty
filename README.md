@@ -13,4 +13,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=limrpoty&show_icons=true&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&theme=github_dark&hide_border=true&title_color=c9a227&text_color=e6edf3&bg_color=161b22)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&hide_border=true)
