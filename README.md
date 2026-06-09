@@ -30,7 +30,7 @@
   <tr>
     <td width="60%" valign="top">
       <h2>Who am I?</h2>
-      <p>A CS student currently enthusiastic about affective computing exploring the connections between human behavior and technology. It could be said that I turn caffeine and delusions into actual (not always functional) code. I like exploring new ideas, be it coding a new application or writing a new story.</p>
+      <p>A CS student currently enthusiastic about **affective computing** exploring the connections between human behavior and technology. It could be said that I turn caffeine and delusions into actual (_not always functional_) code. I like exploring new ideas, be it coding a new application or writing a new story.</p>
       :cyclone: <b>Working on:</b> AffectiveNPC<br>
       :mortar_board: <b>Currently studying:</b>
       <ul>
@@ -44,11 +44,6 @@
         <li>All bugs could be considered my friends (since they say enemies we keep close)</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="top">
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
 </table>
 
 <br>
