@@ -13,25 +13,6 @@
   </a>
 </div>
 
-<br>
-
-## Who am I?
-
-A CS student currently enthusiastic about affective computing exploring the connections between human behavior and technology. It could be said that I turn caffeine and delusions into actual (not always functional) code. I like exploring new ideas, be it coding a new application or writing a new story.
-
-
-- **Working on:** [AffectiveNPC]
-- **Currently studying:**
-  - Graphics with Vulkan and OpenGL (with a Rust twist)
-  - **Korean**
-  - A little bit of chemistry
-- **Fun facts:**
-  - Trying to create perfect playlist for every possibility
-  - All bugs could be considered my friends (since they say enemies we keep close)
-
-<br>
-
-## Skills
 
 <div align="center">
   <a><img src="https://img.shields.io/badge/Rust-1A1B27?style=for-the-badge&logo=rust&logoColor=white"></a>
@@ -42,6 +23,35 @@ A CS student currently enthusiastic about affective computing exploring the conn
   <a><img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=white"></a>
 </div>
+
+<br>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>Who am I?</h2>
+      <p>A CS student currently enthusiastic about affective computing exploring the connections between human behavior and technology. It could be said that I turn caffeine and delusions into actual (not always functional) code. I like exploring new ideas, be it coding a new application or writing a new story.</p>
+      :cyclone: <b>Working on:</b> AffectiveNPC<br>
+      :mortar_board: <b>Currently studying:</b>
+      <ul>
+        <li>Graphics with Vulkan and OpenGL (with a Rust twist)</li>
+        <li><b>Korean</b></li>
+        <li>A little bit of chemistry</li>
+      </ul>
+     :space_invader: <b>Fun facts:</b>
+      <ul>
+        <li>Trying to create perfect playlist for every possibility</li>
+        <li>All bugs could be considered my friends (since they say enemies we keep close)</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <br>
 
