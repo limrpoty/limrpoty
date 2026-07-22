@@ -30,12 +30,12 @@
   <tr>
     <td width="60%" valign="top">
       <h2>Who am I?</h2>
-      <p>A CS student currently enthusiastic about **affective computing** exploring the connections between human behavior and technology. It could be said that I turn caffeine and delusions into actual (_not always functional_) code. I like exploring new ideas, be it coding a new application or writing a new story.</p>
+      <p>A CS student currently enthusiastic about <strong>affective computing</strong> exploring the connections between human behavior and technology. It could be said that I turn caffeine and delusions into actual (<em>not always functional</em>) code. I like exploring new ideas, be it coding a new application or writing a new story.</p>
       :cyclone: <b>Working on:</b> AffectiveNPC<br>
       :mortar_board: <b>Currently studying:</b>
       <ul>
         <li>Graphics with Vulkan and OpenGL (with a Rust twist)</li>
-        <li><b>Korean</b></li>
+        <li><b>Romanian</b></li>
         <li>A little bit of chemistry</li>
       </ul>
      :space_invader: <b>Fun facts:</b>
@@ -53,10 +53,10 @@
 ## Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limrpoty&show_icons=true&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&hide_border=true" alt="Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=limrpoty&show_icons=true&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&hide_border=true" alt="Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=limrpoty&background=1A1B27&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A0AEC0&sideLabels=A0AEC0&dates=A0AEC0&hide_border=true" alt="Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&hide_border=true" alt="Top Langs" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limrpoty&layout=compact&bg_color=1A1B27&title_color=38BDF8&text_color=FFFFFF&hide_border=true" alt="Top Langs" /> -->
 </div>
 
 <br>
